@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2024 16:30:43 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 21 Jul 2024 16:30:43 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 21 Jul 2024 16:27:47 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SobreVirtualizacion</title>
-      <link>http://localhost:1313/post/sobrevirtualizacion/</link>
+      <link>https://example.org/post/sobrevirtualizacion/</link>
       <pubDate>Sun, 21 Jul 2024 16:27:47 +0200</pubDate>
-      <guid>http://localhost:1313/post/sobrevirtualizacion/</guid>
+      <guid>https://example.org/post/sobrevirtualizacion/</guid>
       <description></description>
     </item>
     <item>
-      <title>ComandosLinux</title>
-      <link>http://localhost:1313/post/comandoslinux/</link>
+      <title>Comandos que me parecen útiles de Linux</title>
+      <link>https://example.org/post/comandoslinux/</link>
       <pubDate>Sun, 21 Jul 2024 16:22:09 +0200</pubDate>
-      <guid>http://localhost:1313/post/comandoslinux/</guid>
-      <description>Este es un post acerca de comandos que te puedes descargar en la consola de linux que considero interesantes&#xA;1. htop&#xA;2. btop&#xA;3. ranger&#xA;4. calcurse</description>
+      <guid>https://example.org/post/comandoslinux/</guid>
+      <description>Este es un post acerca de comandos que te puedes descargar en la consola de linux que consideron que te facilitan la vida informática. 1. htop Ofrece una intefaz para monitorear procesos y recursos del sistema, además que te permite visualizar información sobre el uso de la CPU, la memoria, los procesos y otros recursos del sistema&#xA;2. btop También es una herramienta de monitoreo de recursos para Linux. Esta escrita en C++</description>
     </item>
   </channel>
 </rss>
