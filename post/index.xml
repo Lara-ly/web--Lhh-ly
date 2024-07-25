@@ -20,7 +20,7 @@
       <link>https://lara-ly.github.io/web--Lhh-ly/post/comandoslinux/</link>
       <pubDate>Sun, 21 Jul 2024 16:22:09 +0200</pubDate>
       <guid>https://lara-ly.github.io/web--Lhh-ly/post/comandoslinux/</guid>
-      <description>Este es un post acerca de comandos que te puedes descargar en la consola de linux que consideron que te facilitan la vida informática.&#xA;1. htop Ofrece una intefaz para monitorear procesos y recursos del sistema, además que te permite visualizar información sobre el uso de la CPU, la memoria, los procesos y otros recursos del sistema&#xA;2. btop También es una herramienta de monitoreo de recursos para Linux. Esta escrita en C++</description>
+      <description>Este es un post acerca de comandos que te puedes descargar en la consola de linux que considero que facilitan la vida informática.&#xA;1. htop: Ofrece una intefaz para monitorear procesos y recursos del sistema, además que te permite visualizar información sobre el uso de la CPU, la memoria, los procesos y otros recursos del sistema&#xA;2. btop: También es una herramienta de monitoreo de recursos para Linux. Esta escrita en C++</description>
     </item>
   </channel>
 </rss>
