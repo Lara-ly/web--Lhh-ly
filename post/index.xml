@@ -13,7 +13,7 @@
       <link>https://lara-ly.github.io/web--Lhh-ly/post/spectrevulnerability/</link>
       <pubDate>Sun, 21 Jul 2024 16:28:42 +0200</pubDate>
       <guid>https://lara-ly.github.io/web--Lhh-ly/post/spectrevulnerability/</guid>
-      <description>Spectre es una de las vulnerabilidades de seguridad más importantes de la última década, afectando a prácticamente todos los procesadores modernos. Spectre explota una de las características de los procesadores modernos conocida como ejejecución especulativa.&#xA;La ejecución esculativa se basa en intentar predecir las próximas instrucciones que se ejecutarán y las ejecutan antes de que se confirmen. Si la predicción es correcta se gana tiempo, sino, los resultados especulativos se descartan y se toma el camino correcto.</description>
+      <description>Spectre es una de las vulnerabilidades de seguridad más importantes de los últimos años, afectando a prácticamente todos los procesadores modernos. Spectre explota una de las características de los procesadores modernos conocida como ejecución especulativa.&#xA;La ejecución esculativa se basa en intentar predecir las próximas instrucciones que se ejecutarán y las ejecutan antes de que se confirmen. Si la predicción es correcta se gana tiempo, sino, los resultados especulativos se descartan y se toma el camino correcto.</description>
     </item>
     <item>
       <title>Comandos que me parecen útiles de Linux</title>
