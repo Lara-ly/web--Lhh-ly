@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/web--Lhh-ly/</loc>
+    <lastmod>2024-07-21T16:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/web--Lhh-ly/post/</loc>
+    <lastmod>2024-07-21T16:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/web--Lhh-ly/post/spectrevulnerability/</loc>
+    <lastmod>2024-07-21T16:28:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/web--Lhh-ly/post/comandoslinux/</loc>
+    <lastmod>2024-07-21T16:22:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/web--Lhh-ly/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/web--Lhh-ly/tags/</loc>
+  </url>
+</urlset>
